@@ -1,28 +1,27 @@
-MultiFind Pro Privacy Policy
+# MultiFind Pro Privacy Policy
 
-Effective Date: December 17, 2025
+**Effective Date: December 17, 2025**
 
-Overview
-MultiFind Pro is a browser extension that enhances in-page search with multi-word highlighting, excludes, history, and export features. We are committed to protecting your privacy. This policy explains our practices.
+MultiFind Pro is a browser extension that enhances in-page text search with multi-word highlighting, color coding, search history, excludes, and export features.
 
-Data Collection and Use
-- We do not collect, store, or transmit any personal information, search terms, or browsing history to servers.
-- The extension temporarily reads website content solely to perform text search and highlighting on the page you're viewing. This happens locally in your browser.
-- Local storage is used on your device for:
-  - Extension settings (e.g., enabled/disabled state).
-  - Search history and excluded selectors (optional, user-controlled).
-- No data is shared with third parties, sold, or used for advertising/tracking.
+### Data Collection and Usage
+- We **do not** collect, store, or transmit any personal data, search terms, or browsing activity to any servers.
+- The extension temporarily reads page content **only** to highlight search matches on the current webpage.
+- Search history and excluded selectors are stored **locally** on your device using browser storage (localStorage and chrome.storage).
+- No data ever leaves your browser.
 
-Cookies and Tracking
-- We do not use cookies, analytics, or any tracking technologies.
+### Permissions Explained
+- The extension uses standard Chrome permissions (`activeTab`, `scripting`, `storage`) to inject the search toolbar and save your preferences.
+- All processing happens locally — no remote servers or analytics.
 
-Security
-- All operations are local to your browser. We recommend keeping your browser updated for security.
+### Third Parties
+- We do **not** share, sell, or transfer any user data to third parties.
+- No tracking, analytics, or ads are included.
 
-Changes to This Policy
-- We may update this policy. Changes will be posted here with a new effective date.
+### Changes to This Policy
+We may update this policy occasionally. Changes will be reflected here.
 
-Contact Us
-- For questions: atjakatjuara@gmail.com
+### Contact
+For questions or support: atjakatjuara@gmail.com
 
-By using MultiFind Pro, you agree to this policy.
+By using MultiFind Pro, you agree to this privacy policy.
