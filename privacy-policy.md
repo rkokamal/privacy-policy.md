@@ -1,8 +1,8 @@
-# MultiFind Pro Privacy Policy
+# Lexcope Privacy Policy
 
 **Effective Date: December 17, 2025**
 
-MultiFind Pro is a browser extension that enhances in-page text search with multi-word highlighting, color coding, search history, excludes, and export features.
+Lexcope is a browser extension that enhances in-page text search with multi-word highlighting, color coding, search history, excludes, and export features.
 
 ### Data Collection and Usage
 - We **do not** collect, store, or transmit any personal data, search terms, or browsing activity to any servers.
@@ -24,4 +24,4 @@ We may update this policy occasionally. Changes will be reflected here.
 ### Contact
 For questions or support: atjakatjuara@gmail.com
 
-By using MultiFind Pro, you agree to this privacy policy.
+By using Lexcope, you agree to this privacy policy.
