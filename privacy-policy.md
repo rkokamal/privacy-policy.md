@@ -1,27 +1,35 @@
 # Lexcope Privacy Policy
+**Effective Date:** January 22, 2025
 
-**Effective Date: December 17, 2025**
+## Data Collection and Usage
 
-Lexcope is a browser extension that enhances in-page text search with multi-word highlighting, color coding, search history, excludes, and export features.
+### Free Version (No License)
+- No data collection
+- 60 daily credits work locally in your browser
+- No data is sent to any servers
+- Search history stored locally only
 
-### Data Collection and Usage
-- We **do not** collect, store, or transmit any personal data, search terms, or browsing activity to any servers.
-- The extension temporarily reads page content **only** to highlight search matches on the current webpage.
-- Search history and excluded selectors are stored **locally** on your device using browser storage (localStorage and chrome.storage).
-- No data ever leaves your browser.
+### Premium Version (With License)
+- **License Validation Only:** When activating a license, we collect:
+  - License key
+  - Anonymous machine identifier (LEX_XXXXXXXXXXXX)
+- **Purpose:** Validate license authenticity and prevent piracy
+- **Data Storage:** License data stored securely in Cloudflare KV
+- **Data Deletion:** You can deactivate license anytime via extension popup
 
-### Permissions Explained
-- The extension uses standard Chrome permissions (`activeTab`, `scripting`, `storage`) to inject the search toolbar and save your preferences.
-- All processing happens locally — no remote servers or analytics.
+### General
+- We never collect browsing history, search terms, or personal information
+- No tracking, analytics, or advertising
+- All processing for free features happens locally
 
-### Third Parties
-- We do **not** share, sell, or transfer any user data to third parties.
-- No tracking, analytics, or ads are included.
+## Third Parties
+- License validation uses Cloudflare Workers (https://lexcope-license-check.atjakatjuara.workers.dev)
+- No data is shared with any other third parties
 
-### Changes to This Policy
+## Changes to This Policy
 We may update this policy occasionally. Changes will be reflected here.
 
-### Contact
+## Contact
 For questions or support: atjakatjuara@gmail.com
 
 By using Lexcope, you agree to this privacy policy.
